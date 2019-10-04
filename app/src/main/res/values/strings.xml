@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">4LessonHomeWork</string>
+    <string name="first_activity_title_string">Каталог</string>
+    <string name="map_activity_title_string">Карта</string>
+    <string name="search_activity_title_string">Поиск</string>
+    <string name="cabinet_activity_title_string">Личный кабинет</string>
+    <string name="on_map_button">На карту</string>
+    <string name="search_button">На поисковую страницу</string>
+    <string name="in_cabinet_button">В личный кабинет</string>
+    <string name="catalog_button">В каталог</string>
+</resources>
